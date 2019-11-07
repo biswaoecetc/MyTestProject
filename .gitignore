@@ -1,0 +1,9 @@
+.idea
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.idea/
+.DS_Store
+/.DS_Store
